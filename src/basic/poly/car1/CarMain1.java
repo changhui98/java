@@ -13,6 +13,10 @@ public class CarMain1 {
         // 차량 변경(K3 -> Model3)
         driver.setCar(new Model3Car());
         driver.drive();
+
+        // 차량 변경(Model3 -> NewCar)
+        driver.setCar(new NewCar());
+        driver.drive();
     }
 
 }
