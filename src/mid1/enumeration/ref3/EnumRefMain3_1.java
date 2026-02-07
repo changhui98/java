@@ -1,6 +1,6 @@
-package mid1.enumeration.ref2;
+package mid1.enumeration.ref3;
 
-public class EnumREfMain2 {
+public class EnumRefMain3_1 {
 
     public static void main(String[] args) {
 
